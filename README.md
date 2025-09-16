@@ -1,4 +1,4 @@
-#  Backend de Películas - Proyecto Final
+#  Backend de Películas - Parcial 1
 
 ## Descripción
 Backend en Node.js + Express + MongoDB que permite:
