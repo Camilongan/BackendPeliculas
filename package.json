@@ -1,0 +1,29 @@
+{
+  "name": "proyectobackend",
+  "version": "1.0.0",
+  "description": "Backend para gestión de películas con autenticación y roles",
+  "main": "application.js",
+  "scripts": {
+    "start": "node application.js",
+    "dev": "nodemon application.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongoose",
+    "jwt",
+    "bcrypt"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
